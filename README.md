@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Cloud Gateway Implementation with Custom Filters
 
 This is a Java application built with Spring Boot and Maven. It serves as a gateway for microservices architecture, implementing custom filters for request translation.
@@ -26,3 +27,6 @@ You can deploy the project on Railway using the following button:
 If you want to deploy this project within an entire Spring microservices ecosystem, you can use the following button:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/f6CKpT?referralCode=jesus-unir)
+=======
+# back-end-cloud-gateway-filters
+>>>>>>> 6e28bcbde054b59acff7c44de69bcd4f262838e2
